@@ -41,7 +41,7 @@ This project aggregates comprehensive information about the GaussDB open-source 
 | Middleware | Distributed Tasks | ElasticJob          | 3.1.0            | 505.2.0  | 506.0.0    | [Usage Guide](Elasticjob/3.1.0/README_en.md)        |
 | AI | Vector Search | LlamaIndex-GaussDB    | 0.1.0            | 505.2.0  |            | [Usage Guide](./LlamaIndex-GaussDB/0.1.0/README_en.md) |
 | AI | Vector Search | LangChain-GaussDB     | 0.1.0            | 505.2.0  |            | [Usage Guide](./LangChain-GaussDB/0.1.0/README_en.md) |
-| AI | Agent Memory | Mem0-GaussDB     | 2.0.4            | 505.2.0  | - | [Usage Guide](./Mem0-GaussDB/2.0.4/README_en.md) |
+| AI | Agent Memory | Mem0-GaussDB     | 2.0.4            | 507.0.0  | - | [Usage Guide](./Mem0-GaussDB/2.0.4/README_en.md) |
 
 * Use `select version()` to check your GaussDB version.  
 * Refer to [gaussdb-drivers](https://github.com/HuaweiCloudDeveloper/gaussdb-drivers) for driver details.  
