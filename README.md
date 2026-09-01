@@ -46,6 +46,7 @@
 | AI | Agent 记忆 | Mem0-GaussDB     | 2.0.4 | 507.0.0  | - | [使用指南](./Mem0-GaussDB/2.0.4/README.md) |
 | AI | 向量检索 | RAGFlow-GaussDB    | 0.26.4 | 507.0.0  | - | [使用指南](./RAGFlow-GaussDB/0.26.4/README.md) |
 | AI | 向量检索 | LangGraph-GaussDB     | 0.1.0 | 507.0.0  |            | [使用指南](./LangGraph-GaussDB/0.1.0/README.md) |
+| AI | 向量检索 | Ollama    | 0.33.1 | 507.0.0  | 507.0.0 | [使用指南](./Ollama/README.md) |
 
 * 可以通过 `select version()` 查询GaussDB版本信息。
 * 可以参考 [gaussdb-drivers](https://github.com/HuaweiCloudDeveloper/gaussdb-drivers) 进一步了解驱动信息。
