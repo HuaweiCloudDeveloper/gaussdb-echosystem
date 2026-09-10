@@ -1,6 +1,6 @@
 # GaussDB 只读 MCP 服务器（gaussdb-ro-mcp）集成指南
 
-> 适用版本：gaussdb-ro-mcp v0.2.0；GaussDB Kernel 503.1.0 及以上（集中式 / 分布式）、openGauss 6.0.0
+> 适用版本：gaussdb-ro-mcp v0.2.1；GaussDB Kernel 503.1.0 及以上（集中式 / 分布式）、openGauss 6.0.0
 > 更新日期：2026-09-10
 > 项目地址：<https://github.com/gxc/gaussdb-ro-mcp>
 

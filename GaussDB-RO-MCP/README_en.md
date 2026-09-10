@@ -1,6 +1,6 @@
 # GaussDB Read-Only MCP Server (gaussdb-ro-mcp) Integration Guide
 
-> Applicable versions: gaussdb-ro-mcp v0.2.0; GaussDB Kernel 503.1.0 and above (centralized / distributed), openGauss 6.0.0
+> Applicable versions: gaussdb-ro-mcp v0.2.1; GaussDB Kernel 503.1.0 and above (centralized / distributed), openGauss 6.0.0
 > Updated: 2026-09-10
 > Project: <https://github.com/gxc/gaussdb-ro-mcp>
 
