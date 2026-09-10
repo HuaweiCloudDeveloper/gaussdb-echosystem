@@ -43,6 +43,7 @@ This project aggregates comprehensive information about the GaussDB open-source 
 | AI | Vector Search | LangChain-GaussDB     | 0.1.0            | 505.2.0  |            | [Usage Guide](./LangChain-GaussDB/0.1.0/README_en.md) |
 | AI | Agent Memory | Mem0-GaussDB     | 2.0.4            | 507.0.0  | - | [Usage Guide](./Mem0-GaussDB/2.0.4/README_en.md) |
 | AI | Vector Search | Ollama    | 0.33.1            | 507.0.0  | 507.0.0 | [Usage Guide](./Ollama/README_en.md) |
+| AI | MCP Tool | gaussdb-ro-mcp | v0.2.1 | 503.1.0 | v1.0.0-rc1 | [Usage Guide](./GaussDB-RO-MCP/README_en.md) |
 
 * Use `select version()` to check your GaussDB version.  
 * Refer to [gaussdb-drivers](https://github.com/HuaweiCloudDeveloper/gaussdb-drivers) for driver details.  
